@@ -1,0 +1,14 @@
+C:\Users\JoãoVitorCoelhoLima\Desktop\Aulas\Xadrez-Console\Xadrez-Console\bin\Debug\net8.0\Xadrez_Console.exe
+C:\Users\JoãoVitorCoelhoLima\Desktop\Aulas\Xadrez-Console\Xadrez-Console\bin\Debug\net8.0\Xadrez_Console.deps.json
+C:\Users\JoãoVitorCoelhoLima\Desktop\Aulas\Xadrez-Console\Xadrez-Console\bin\Debug\net8.0\Xadrez_Console.runtimeconfig.json
+C:\Users\JoãoVitorCoelhoLima\Desktop\Aulas\Xadrez-Console\Xadrez-Console\bin\Debug\net8.0\Xadrez_Console.dll
+C:\Users\JoãoVitorCoelhoLima\Desktop\Aulas\Xadrez-Console\Xadrez-Console\bin\Debug\net8.0\Xadrez_Console.pdb
+C:\Users\JoãoVitorCoelhoLima\Desktop\Aulas\Xadrez-Console\Xadrez-Console\obj\Debug\net8.0\Xadrez_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoãoVitorCoelhoLima\Desktop\Aulas\Xadrez-Console\Xadrez-Console\obj\Debug\net8.0\Xadrez_Console.AssemblyInfoInputs.cache
+C:\Users\JoãoVitorCoelhoLima\Desktop\Aulas\Xadrez-Console\Xadrez-Console\obj\Debug\net8.0\Xadrez_Console.AssemblyInfo.cs
+C:\Users\JoãoVitorCoelhoLima\Desktop\Aulas\Xadrez-Console\Xadrez-Console\obj\Debug\net8.0\Xadrez_Console.csproj.CoreCompileInputs.cache
+C:\Users\JoãoVitorCoelhoLima\Desktop\Aulas\Xadrez-Console\Xadrez-Console\obj\Debug\net8.0\Xadrez_Console.dll
+C:\Users\JoãoVitorCoelhoLima\Desktop\Aulas\Xadrez-Console\Xadrez-Console\obj\Debug\net8.0\refint\Xadrez_Console.dll
+C:\Users\JoãoVitorCoelhoLima\Desktop\Aulas\Xadrez-Console\Xadrez-Console\obj\Debug\net8.0\Xadrez_Console.pdb
+C:\Users\JoãoVitorCoelhoLima\Desktop\Aulas\Xadrez-Console\Xadrez-Console\obj\Debug\net8.0\Xadrez_Console.genruntimeconfig.cache
+C:\Users\JoãoVitorCoelhoLima\Desktop\Aulas\Xadrez-Console\Xadrez-Console\obj\Debug\net8.0\ref\Xadrez_Console.dll
