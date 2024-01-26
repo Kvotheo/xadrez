@@ -1,4 +1,5 @@
-﻿using System;
+using System;
+using System.Collections.Generic;
 using tabuleiro;
 using xadrez;
 
@@ -43,7 +44,6 @@ namespace xadrez_console
             Console.WriteLine();
         }
 
-
         public static void imprimirConjunto(HashSet<Peca> conjunto)
         {
             Console.Write("[");
@@ -53,7 +53,6 @@ namespace xadrez_console
             }
             Console.Write("]");
         }
-
 
         public static void imprimirTabuleiro(Tabuleiro tab)
         {
@@ -98,13 +97,25 @@ namespace xadrez_console
             Console.BackgroundColor = fundoOriginal;
         }
 
+
         public static PosicaoXadrez lerPosicaoXadrez()
         {
-            string s = Console.ReadLine();
-            char coluna = s[0];
-            int linha = int.Parse(s[1] + "");
-            return new PosicaoXadrez(coluna, linha);
+            while (true)
+            {
+                string s = Console.ReadLine();
+                if (!string.IsNullOrEmpty(s) && s.Length >= 2)
+                {
+                    char coluna = s[0];
+                    int linha = int.Parse(s[1] + "");
+                    return new PosicaoXadrez(coluna, linha);
+                }
+                else
+                {
+                    Console.WriteLine("Entrada inválida. Por favor, tente novamente.");
+                }
+            }
         }
+
 
         public static void imprimirPeca(Peca peca)
         {
